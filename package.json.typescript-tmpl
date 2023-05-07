@@ -1,0 +1,23 @@
+{
+  "name": "{name}",
+  "description": "{description}",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "private": false,
+  "scripts": {
+    "build": "tsup"
+  },
+  "author": "xHyroM",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xHyroM/{NAME}.git"
+  },
+  "license": "Apache-2.0|MIT|MPL-2.0",
+  "devDependencies": {
+    "tsup": "latest",
+    "typescript": "latest",
+    "rome": "latest"
+  }
+}
