@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/intellij,intellij+iml,intellij+all,java,gradle,maven,forgegradle,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij,intellij+iml,intellij+all,java,gradle,maven,forgegradle,visualstudiocode
 
+### dotenv ###
+.env
+
 ### ForgeGradle ###
 # Minecraft client/server files
 run/
